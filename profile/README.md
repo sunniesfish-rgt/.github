@@ -2,6 +2,9 @@
 
 https://rgt-pi.vercel.app
 
+## 시연
+https://youtu.be/504d8aeBEHk
+
 ## 프로젝트 개요
 
 RGT 도서관리 시스템은 도서 관리 및 사용자 인증 기능을 제공하는 웹 애플리케이션입니다.
