@@ -2,7 +2,7 @@
 
 https://rgt-pi.vercel.app
 
-## 시연
+## 시연 영상
 https://youtu.be/504d8aeBEHk
 
 ## 프로젝트 개요
