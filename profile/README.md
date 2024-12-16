@@ -1,6 +1,6 @@
 # RGT 도서관리 시스템
 
-https://rgt-7uhim2q6g-sunniesfishs-projects.vercel.app
+https://rgt-pi.vercel.app
 
 ## 프로젝트 개요
 
