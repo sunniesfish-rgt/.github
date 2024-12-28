@@ -1,7 +1,5 @@
 # RGT 도서관리 시스템
 
-https://rgt-pi.vercel.app
-
 ## 시연 영상
 https://youtu.be/504d8aeBEHk
 
